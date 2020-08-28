@@ -8,3 +8,4 @@ With the whole world looking to Social media to voice their opinion on anything 
 
 Thus, we decided to use real-time live twitter data to track and compare the performance to two commercial giants Walmart and Costco. There is a constant debate online about which of the two is better and in which aspects. This analysis can give us insights to the better performer in each product and service. This can be used for understanding the sections where they are performing well and the ones where they need to improve. We have also compared the performance of the two companies in different regions namely New York and San Francisco. 
 
+##Did not post the server code to avoid exposing my twitter access codes
